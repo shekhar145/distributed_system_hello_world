@@ -1,0 +1,8 @@
+Problem Statement:
+You are building a high-demand concert ticket booking system. 
+There is a single shared file tickets.txt that contains the number of available tickets (initially 100).
+You must run 5 independent instances of a script. Each instance represents a separate "Region" (North, South, East, West, Global). 
+Each instance will try to sell 30 tickets as fast as possible.
+Total Tickets: 100
+Total Sale Attempt: times 30 => 150tickets.
+

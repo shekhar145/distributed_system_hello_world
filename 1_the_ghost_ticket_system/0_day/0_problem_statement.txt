@@ -1,0 +1,9 @@
+(Without Any Lock)
+In this phase, we will implement a process, which will 
+1. read a file tickets.txt
+2. if count > 0
+3. simulate some network delay with sleep(1-3)
+4. write back to file count-1 (if count > 0)
+5. Log, How many ticket this node sold
+
+Then run 5 instances of this process

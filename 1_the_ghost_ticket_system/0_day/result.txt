@@ -1,0 +1,2 @@
+Final result came as: 57
+But ideally it should be 100-150 = 
